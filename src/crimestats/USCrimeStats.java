@@ -5,6 +5,7 @@ package crimestats;
  * author:  Michael DeAngelo
  * date:    February 28, 2018
  * purpose: USCrimeStats class contains the data for the US Crime Stats
+ * now testing changes
  */
 
 public class USCrimeStats {
